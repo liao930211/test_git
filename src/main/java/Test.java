@@ -8,6 +8,7 @@ public class Test {
 
     public static void main(String[] args){
         System.out.println("Test is Success  hahaha 123213！aaaaa ");
+        System.out.println("Test is Success  hahaha 1232131！123123213123 ");
     }
 
 
